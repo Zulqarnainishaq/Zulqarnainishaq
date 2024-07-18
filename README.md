@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zulqarnain</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img align="center" alt="Coding" width="600" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="center"  width=100% alt="Coding" width="600" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulqarnainishaq&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnainishaq" /> </p>
 
